@@ -16,6 +16,10 @@ Beispiele:
 
 ![Platinenhalter](https://github.com/frankyhub/openSCAD/blob/main/Platinenhalter/Platinenhalter.png)
 
+[Robot](https://github.com/frankyhub/openSCAD/blob/main/Robot/Robot.scad)
+
+![Robot](https://github.com/frankyhub/openSCAD/blob/main/Robot/Robot.png)
+
 [Schraubzwinge](https://github.com/frankyhub/openSCAD/blob/main/Schraubzwinge/Schraubzwinge.scad)
 
 ![Schraubzwinge](https://github.com/frankyhub/openSCAD/blob/main/Schraubzwinge/schraubzwinge.png)
