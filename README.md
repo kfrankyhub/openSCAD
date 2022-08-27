@@ -4,7 +4,7 @@ Beispiele:
 
 
 
-[PBox](https://github.com/frankyhub/openSCAD/blob/main/Box/Box.scad)
+[Box](https://github.com/frankyhub/openSCAD/blob/main/Box/Box.scad)
 
 ![Box](https://github.com/frankyhub/openSCAD/blob/main/Box/box.png)
 
