@@ -12,6 +12,10 @@ Beispiele:
 
 ![Planetengetriebe](https://github.com/frankyhub/openSCAD/blob/main/Planetengetriebe/planetengetriebe.png)
 
+[Platinenhalter](https://github.com/frankyhub/openSCAD/blob/main/Platinenhalter/Platinenhalter.scad)
+
+![Platinenhalter](https://github.com/frankyhub/openSCAD/blob/main/Platinenhalter/platinenhalter.png)
+
 [Schraubzwinge](https://github.com/frankyhub/openSCAD/blob/main/Schraubzwinge/Schraubzwinge.scad)
 
 ![Schraubzwinge](https://github.com/frankyhub/openSCAD/blob/main/Schraubzwinge/schraubzwinge.png)
